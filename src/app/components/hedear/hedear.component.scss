@@ -1,13 +1,22 @@
-@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+.custom-navbar {
+  background-color:#1f1204;
+}
+.custom-navbar.nav-wrapper {
+  color: #fff;
+}
+.mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 .spacer {
   flex: 1 1 auto;
 }
-
-.sidenav-container {
-  height: 100%;
+.custom-image {
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+  margin-left: 3rem;
 }
 
-.sidenav {
-  width: 250px;
-}

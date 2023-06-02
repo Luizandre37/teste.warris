@@ -24,9 +24,11 @@ ng serve
 
 
 http://localhost:4200/
-![paiball-e-comercer](https://github.com/Luizandre37/Paintball_Warriors/assets/67300107/5d84104b-20d6-49ff-ae17-1a1c139fced0)
+
 
 # O e-commerce de Paintball_Warriors possui as seguintes funcionalidades:
+
+![paiball-e-comercer](https://github.com/Luizandre37/Paintball_Warriors/assets/67300107/5d84104b-20d6-49ff-ae17-1a1c139fced0)
 
 - Página inicial com os produtos em destaque e as novidades;
 - Página de produtos com as informações detalhadas do produto, preços e opções de variações;

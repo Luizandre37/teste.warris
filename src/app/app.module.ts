@@ -14,6 +14,7 @@ import { ProdutoComponent } from './components/pages/produto/produto.component';
 import { CadastroComponent } from './components/pages/cadastro/cadastro.component';
 import { HedearComponent } from './components/hedear/hedear.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { HeaderComponent } from './components/header/header.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { FooterComponent } from './components/footer/footer.component';
     ProdutoComponent,
     CadastroComponent,
     HedearComponent,
-    FooterComponent
+    FooterComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

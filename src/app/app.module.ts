@@ -9,24 +9,18 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { PagesComponent } from './components/pages/pages.component';
 import { HomeComponent } from './components/pages/home/home.component';
-import { LoginComponent } from './components/pages/login/login.component';
-import { ProdutoComponent } from './components/pages/produto/produto.component';
+//import { LoginComponent } from './components/pages/login/login.component';
+//import { ProdutoComponent } from './components/pages/produto/produto.component';
 import { CadastroComponent } from './components/pages/cadastro/cadastro.component';
-import { HedearComponent } from './components/hedear/hedear.component';
+//import { HeaderComponent } from './components/header/header.component.spec';
 import { FooterComponent } from './components/footer/footer.component';
-import { HeaderComponent } from './components/header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PagesComponent,
     HomeComponent,
-    LoginComponent,
-    ProdutoComponent,
-    CadastroComponent,
-    HedearComponent,
-    FooterComponent,
-    HeaderComponent
+
   ],
   imports: [
     BrowserModule,
